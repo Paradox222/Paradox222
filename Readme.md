@@ -35,7 +35,7 @@ Join My Discord to see all my projects :
 
 ---
 
-[discord]: https://discord.gg/9Z8Ex2BTc4
+[discord]: https://discord.gg/BcvzagxZff
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="MZ3HTWZU8HE3S" />
