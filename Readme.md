@@ -5,9 +5,9 @@
 
 
 
-- 👨‍💻 All of my projects are available on [my discord](https://discord.gg/9Z8Ex2BTc4) 
+- 👨‍💻 All of my projects are available on [my discord](https://discord.gg/BcvzagxZff) 
 
-- 📫 How to reach me **╭⊱💻𝒮𝒽𝒶𝒾💻⊱╮#8941 (discord)** or [my discord](https://discord.gg/9Z8Ex2BTc4)
+- 📫 How to reach me **Yumeko💖#8941 (discord)** or [my discord](https://discord.gg/9Z8Ex2BTc4)
 
 
 
