@@ -19,19 +19,19 @@ Join My Discord to see all my projects :
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaiYT&count_private=true&show_icons=true?theme=buefy&locale=en" alt="ShaiYT" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yumeko-Dev&count_private=true&show_icons=true?theme=buefy&locale=en" alt="Yumeko-Dev" /></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shai-Dev&theme=default&locale=en" alt="Yumeko-Dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yumeko-Dev&theme=default&locale=en" alt="Yumeko-Dev" /></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiYT&layout=compact&count_private=true&locale=fr" alt="ShaiYT" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumeko-Dev&layout=compact&count_private=true&locale=fr" alt="Yumeko-Dev" /></p>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShaiYT&title=Commit&title=Repositories" alt="ShaiYT" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yumeko-Dev&title=Commit&title=Repositories" alt="ShaiYT" /></a> </p>
 
 ---
 
