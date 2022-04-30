@@ -46,20 +46,7 @@ Join My Discord to see all my projects :
 
 --- 
 
-<details>
-  <summary>📊 My Github Stats</summary>
- 
-  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=enum0x539&show_icons=true&include_all_commits=true&line_height=25" alt="enum0x539" /></p>
-  
-  <p align="left"> <a href="https://github.com/Enum0x539"><img src="https://github-profile-trophy.vercel.app/?username=Enum0x539" alt="Enum0x539" /></a> </p>
-  
-  ### Contribution Graph
-  
-  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Enum0x539&theme=github" alt="GH Contribution graph" /></p> 
-  
-  <br />
 
-</details>
 
 
 [discord]: https://discord.gg/BcvzagxZff
