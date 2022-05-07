@@ -1,5 +1,5 @@
 <h1 align="center">Hello ✌️, I'm Yumeko</h1>
-<h2 align="center">I dev in JavaScript (discord.js) and web (front-end)</h2>
+<h2 align="center">About me (front-end)</h2>
 
 
 
