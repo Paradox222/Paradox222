@@ -5,7 +5,7 @@
 
 ### 🎧 Listening to
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=37uFPrDAvRqqMdzXFUcw15w86MiqKwshMz&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=37uFPrDAvRqqMdzXFUcw15w86MiqKwshMz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=NVDobsBkGdqs7uavZBRJN3C0&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=NVDobsBkGdqs7uavZBRJN3C0&redirect=true)
 
 ### 👨‍💻 Currently working on
 [![Discord-AIO](https://github-readme-stats.vercel.app/api/pin/?username=Yumeko-Dev&repo=Yumeko_Stealer&q=2022&theme=radical)](https://github.com/Yumeko-Dev/Yumeko_Stealer)
