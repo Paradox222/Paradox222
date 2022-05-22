@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 Currently working on
-[![Paradox222.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Paradox222&repo=Yumeko-Dev.github.io&q=2022&theme=radical)](https://github.com/Paradox222/Paradox222.github.io)
+[![Paradox222.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Paradox222&repo=Paradox222.github.io&q=2022&theme=radical)](https://github.com/Paradox222/Paradox222.github.io)
 
 ### 🛠 Languages I have worked with
 
