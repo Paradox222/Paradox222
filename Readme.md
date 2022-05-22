@@ -1,4 +1,4 @@
-<h1 align="center">Hello ✌️, I'm Yumeko</h1>
+<h1 align="center">Hello ✌️, I'm Paradox</h1>
 <h2 align="center">About me</h2>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Student+developer...;Hacking+apprentice..."></p>
@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 Currently working on
-[![Yumeko-Dev.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Yumeko-Dev&repo=Yumeko-Dev.github.io&q=2022&theme=radical)](https://github.com/Yumeko-Dev/Yumeko-Dev.github.io)
+[![Paradox222.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Paradox222&repo=Yumeko-Dev.github.io&q=2022&theme=radical)](https://github.com/Paradox222/Paradox222.github.io)
 
 ### 🛠 Languages I have worked with
 
@@ -20,11 +20,11 @@
 
 ### 👨‍👩‍👧‍👦 Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/Yumeko-Dev/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Paradox222/count.svg)
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yumeko-Dev&count_private=true&show_icons=true?theme=buefy&locale=en" alt="Yumeko-Dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paradox222&count_private=true&show_icons=true?theme=buefy&locale=en" alt="Yumeko-Dev" /></p>
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yumeko-Dev&title=Commit&title=Repositories" alt="ShaiYT" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paradox222&title=Commit&title=Repositories" alt="PARADOX" /></a> </p>
 
 ---
 
