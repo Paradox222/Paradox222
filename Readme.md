@@ -1,7 +1,7 @@
 <h1 align="center">Hello ✌️, I'm Yumeko</h1>
 <h2 align="center">About me</h2>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Student+developer;Desarrollando+proyectos...;Aprendiendo+cada+vez+más..."></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Student+developer...;Hackin+apprentice..."></p>
 
 
 
