@@ -1,12 +1,12 @@
 <h1 align="center">Hello ✌️, I'm Yumeko</h1>
 <h2 align="center">About me</h2>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Student+developer...;Hackin+apprentice..."></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Student+developer...;Hacking+apprentice..."></p>
 
 
 
 ### 👨‍💻 Currently working on
-[![Yumeko_stealer](https://github-readme-stats.vercel.app/api/pin/?username=Yumeko-Dev&repo=Yumeko_Stealer&q=2022&theme=radical)](https://github.com/Yumeko-Dev/Yumeko_Stealer)
+[![Yumeko-Dev.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Yumeko-Dev&repo=Yumeko-Dev.github.io&q=2022&theme=radical)](https://github.com/Yumeko-Dev/Yumeko-Dev.github.io)
 
 ### 🛠 Languages I have worked with
 
