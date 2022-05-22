@@ -24,15 +24,15 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paradox222&count_private=true&show_icons=true?theme=buefy&locale=en" alt="Yumeko-Dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paradox222&count_private=true&show_icons=true?theme=buefy&locale=en" alt="Paradox222" /></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yumeko-Dev&theme=default&locale=en" alt="Yumeko-Dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paradox222&theme=default&locale=en" alt="Yumeko-Dev" /></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumeko-Dev&layout=compact&count_private=true&locale=fr" alt="Yumeko-Dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox222&layout=compact&count_private=true&locale=fr" alt="Paradox222" /></p>
 
 ---
 
